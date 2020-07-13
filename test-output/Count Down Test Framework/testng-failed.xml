@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Count Down Test Framework]">
+  <listeners>
+    <listener class-name="com.CountDown.Utility.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Count Down Test(failed)">
+    <classes>
+      <class name="com.CountDown.TestCases.LoginTestCase">
+        <methods>
+          <include name="setup"/>
+          <include name="LoginTest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.CountDown.TestCases.LoginTestCase -->
+      <class name="com.CountDown.TestCases.SaveTrollyTestCase">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="setup"/>
+          <include name="SaveTrollyTestCase"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.CountDown.TestCases.SaveTrollyTestCase -->
+      <class name="com.CountDown.TestCases.SearchProductsTestCase">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="SearchProductsTestCase"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.CountDown.TestCases.SearchProductsTestCase -->
+    </classes>
+  </test> <!-- Count Down Test(failed) -->
+</suite> <!-- Failed suite [Count Down Test Framework] -->

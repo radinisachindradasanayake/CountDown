@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Count Down Test Framework">
+
+	<listeners>
+		<listener class-name="com.CountDown.Utility.Reporting" />
+	</listeners>
+	<test name="Count Down Test">
+	<classes>
+	<class name="com.CountDown.TestCases.LoginTestCase1"/>
+	<class name="com.CountDown.TestCases.LoginTestCase"/>
+	<class name="com.CountDown.TestCases.SearchProductsTestCase"/>
+	<class name="com.CountDown.TestCases.SaveTrollyTestCase"/>
+	</classes>
+	
+	</test>
+	
+
+</suite>

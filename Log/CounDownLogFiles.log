@@ -1,0 +1,1051 @@
+2019-02-05 00:22:05,237 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 00:22:05,275 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 00:41:05,442 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 00:43:11,149 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 00:47:27,855 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 00:50:59,658 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 00:50:59,864 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 00:55:10,373 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 00:55:12,299 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 00:55:12,427 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 00:55:15,966 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 00:55:16,377 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-05 09:33:20,942 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:33:22,026 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 09:33:22,110 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 09:33:25,462 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 09:33:25,781 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-05 09:35:02,923 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:35:03,894 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 09:35:03,978 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 09:35:07,557 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 09:35:07,890 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-05 09:36:24,852 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:37:35,346 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:37:36,403 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 09:37:36,489 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 09:37:40,211 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 09:37:40,641 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-05 09:41:54,740 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:41:56,468 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 09:41:56,565 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 09:42:00,874 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 09:42:01,323 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-05 09:45:27,315 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:46:31,953 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 09:47:38,382 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:02:32,114 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:03:31,826 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:05:35,812 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:08:43,262 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:10:22,427 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:11:37,374 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:16:21,272 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:16:22,301 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 10:16:22,387 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 10:16:25,751 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 10:16:26,224 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-05 10:19:16,435 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 10:19:17,550 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 10:19:17,646 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 10:19:21,838 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 10:19:21,856 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:38:57,023 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:38:58,136 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:38:58,236 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:39:01,749 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:39:01,758 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:40:09,484 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:40:10,796 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:40:10,911 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:40:14,793 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:40:14,802 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:44:58,493 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:44:59,520 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:44:59,617 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:45:02,956 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:45:02,970 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:47:32,377 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:47:33,391 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:47:33,481 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:47:37,340 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:47:37,351 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:47:38,048 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:47:38,049 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:49:10,052 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:49:11,100 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:49:11,200 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:49:14,539 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:49:14,551 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:49:15,287 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:49:15,287 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:51:27,535 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:51:28,553 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:51:28,652 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:51:31,851 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:51:31,866 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:51:32,617 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:51:32,618 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:53:11,353 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:53:12,421 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:53:12,517 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:53:15,852 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:53:15,864 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:53:16,587 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:53:16,587 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:54:45,037 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:54:46,251 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:54:46,379 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:54:49,895 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:54:49,915 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:54:50,615 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:54:50,617 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:56:40,480 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 11:56:41,669 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 11:56:41,845 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 11:56:46,696 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 11:56:46,708 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 11:56:47,463 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 11:56:47,464 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:06:30,016 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:06:31,041 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:06:31,129 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:06:35,064 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:06:35,077 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:06:35,801 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:06:35,801 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:07:56,110 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:07:57,099 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:07:57,185 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:08:00,532 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:08:00,550 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:08:01,243 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:08:01,244 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:10:12,300 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:10:13,401 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:10:13,497 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:10:17,576 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:10:17,599 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:10:18,410 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:10:18,410 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:11:30,652 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:11:31,620 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:11:31,709 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:11:35,333 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:11:35,347 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:11:36,071 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:11:36,072 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:13:37,612 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:13:38,622 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:13:38,709 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:13:41,991 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:13:42,005 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:13:42,737 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:13:42,737 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:14:25,512 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:14:26,529 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:14:26,616 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:14:29,987 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:14:30,010 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:14:30,793 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:14:30,794 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:20:19,192 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:20:20,195 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:20:20,293 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:20:23,730 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:20:23,739 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:20:24,400 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:20:24,400 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:22:34,628 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:23:35,325 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:23:37,017 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:23:37,017 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:24:58,074 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:24:59,654 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:24:59,655 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:26:10,382 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:26:11,786 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:26:11,929 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:26:15,984 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:26:15,999 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:26:16,642 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:26:16,643 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:27:48,005 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:27:49,008 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:27:49,094 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:27:53,355 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:27:53,372 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:27:54,074 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:27:54,075 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:30:24,301 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:30:25,935 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:30:25,936 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:32:39,484 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:32:40,515 - CountDown_Test_Framework -INFO - Entered UserID Successfully
+2019-02-05 12:32:40,605 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:32:44,272 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:32:44,283 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:32:44,947 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:32:44,947 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:45:50,857 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:45:51,840 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 12:45:51,927 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:45:56,001 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:45:56,011 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 12:45:56,805 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:45:56,806 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:48:26,146 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:48:27,165 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 12:48:27,264 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 12:49:18,200 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 12:51:02,103 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:51:03,582 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:51:03,582 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 12:53:13,063 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 12:53:14,525 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 12:53:14,526 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:00:57,457 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:00:58,450 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:00:58,539 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:01:01,966 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:01:01,983 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:01:02,755 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:01:02,756 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:02:31,160 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:02:32,156 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:02:32,246 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:02:35,583 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:02:35,596 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:02:36,301 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:02:36,301 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:17:32,903 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:17:34,471 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:17:34,472 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:18:55,451 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:18:56,537 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:18:56,624 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:18:59,915 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:18:59,928 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:19:00,642 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:19:00,642 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:23:28,004 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:23:28,986 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:23:29,072 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:23:32,832 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:23:32,845 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:23:33,474 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:23:33,475 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:29:50,435 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:29:52,181 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:29:52,182 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:31:59,564 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:32:02,205 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:32:02,205 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:33:52,205 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:33:53,187 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:33:53,275 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:33:56,875 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:33:56,890 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:33:57,628 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:33:57,629 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:48:56,054 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:48:57,445 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:48:57,446 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:50:31,568 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:50:32,537 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:50:32,629 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:50:38,280 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:50:38,296 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:50:39,054 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:50:39,055 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:51:51,986 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:53:55,713 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:53:58,340 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:53:58,340 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:55:32,869 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:55:36,551 - CountDown_Test_Framework -INFO - Click on Search Filed
+2019-02-05 13:55:36,552 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 13:57:46,391 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 13:57:48,989 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 13:57:49,115 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 13:57:52,788 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 13:57:52,801 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 13:57:54,629 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 13:57:54,629 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:18:29,041 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:18:32,790 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:18:32,790 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:20:25,804 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:20:29,302 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:20:29,303 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:34:57,671 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:35:00,134 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 15:35:00,220 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 15:35:04,653 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 15:35:04,665 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 15:35:06,346 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:35:06,347 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:37:22,910 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:37:26,557 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:37:26,559 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:37:32,742 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 15:42:55,990 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:42:59,656 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:42:59,657 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:43:05,822 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 15:45:30,966 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:45:34,452 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:45:34,453 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:47:15,596 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:47:17,767 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 15:47:17,856 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 15:47:21,552 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 15:47:21,568 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 15:47:23,451 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:47:23,452 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:47:29,595 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 15:49:23,337 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 15:49:26,919 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 15:49:26,920 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 15:49:33,116 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 16:21:43,659 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:21:45,740 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:21:45,829 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:21:49,306 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:21:49,318 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:21:51,074 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 16:21:51,074 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 16:21:57,229 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 16:22:55,943 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:22:57,926 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:22:58,013 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:23:01,247 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:23:01,261 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:23:03,023 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 16:23:03,024 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 16:23:09,152 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 16:24:53,774 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:24:56,571 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:24:56,666 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:24:59,811 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:24:59,827 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:25:01,577 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 16:25:01,578 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 16:25:07,734 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 16:28:05,704 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:28:07,809 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:28:07,900 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:28:11,189 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:28:11,203 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:28:12,937 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 16:28:12,937 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 16:28:19,066 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 16:45:07,323 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:45:09,344 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:45:09,430 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:45:12,890 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:45:12,906 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:48:08,566 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-05 16:48:24,590 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:51:17,806 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-05 16:51:32,590 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:51:34,631 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:51:34,728 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:51:37,846 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:51:37,862 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:55:33,827 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-05 16:55:48,376 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:55:50,324 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:55:50,419 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:55:53,537 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:55:53,551 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:56:57,453 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-05 16:57:12,647 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 16:57:14,597 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 16:57:14,693 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 16:57:18,021 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 16:57:18,039 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 16:58:08,090 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-05 16:58:30,001 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:00:59,092 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:01:01,134 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:01:01,221 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:01:04,699 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:01:04,712 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:01:06,449 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 17:01:06,449 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 17:01:12,512 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 17:22:31,575 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:22:33,914 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:22:34,009 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:22:37,203 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:22:37,223 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:22:38,985 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 17:22:38,986 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 17:22:44,988 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 17:24:52,985 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:24:55,036 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:24:55,124 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:24:58,741 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:24:58,761 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:25:00,452 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 17:25:00,453 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 17:25:06,555 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 17:31:12,292 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-05 17:31:42,688 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:31:44,704 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:31:44,792 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:31:48,516 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:31:48,534 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:31:50,308 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 17:31:50,309 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 17:31:56,445 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 17:49:05,508 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:49:07,576 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:49:07,667 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:49:11,347 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:49:11,365 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:52:33,466 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:52:35,490 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:52:35,579 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:52:38,883 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:52:38,901 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:53:03,848 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 17:53:05,819 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 17:53:05,914 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 17:53:09,976 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 17:53:09,991 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 17:53:11,739 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 17:53:11,739 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 17:53:17,906 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 22:58:52,363 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 22:59:30,269 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 22:59:32,595 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 22:59:32,685 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 22:59:36,836 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 22:59:36,865 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:01:06,848 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:01:10,680 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:01:10,681 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:02:02,510 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:02:04,790 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:02:04,892 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:02:18,042 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:02:18,072 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:02:20,102 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:02:20,102 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:02:26,767 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:03:19,302 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:03:21,661 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:03:21,767 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:03:30,429 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:03:30,459 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:03:32,470 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:03:32,471 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:03:39,068 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:37:53,014 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:37:55,127 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:37:55,221 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:38:01,107 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:38:01,124 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:38:03,090 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:38:03,091 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:38:09,606 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:38:53,400 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:38:55,745 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:38:55,841 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:38:59,820 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:38:59,838 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:39:01,837 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:39:01,838 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:39:08,478 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:46:38,527 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:46:40,839 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:46:40,932 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:46:44,902 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:46:44,930 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:46:47,000 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:46:47,004 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:46:53,785 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:47:31,363 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:47:35,880 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:47:35,882 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:47:42,671 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:48:26,674 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:48:29,238 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:48:29,374 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:48:33,559 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:48:33,585 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:48:35,875 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:48:35,879 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:48:42,765 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:49:16,559 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:49:19,083 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:49:19,196 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:49:23,129 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:49:23,158 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:49:25,351 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:49:25,355 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:49:32,204 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:50:01,736 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:50:04,373 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:50:04,472 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:50:11,634 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:50:11,654 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:50:13,948 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:50:13,948 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:50:20,655 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:51:57,332 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:52:01,700 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:52:01,700 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:52:09,083 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:53:01,494 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:53:04,509 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:53:04,651 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:53:08,658 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:53:08,686 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:53:11,004 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:53:11,004 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:53:18,057 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-05 23:55:12,992 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-05 23:55:15,485 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-05 23:55:15,583 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-05 23:55:19,934 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-05 23:55:19,958 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-05 23:55:22,206 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-05 23:55:22,206 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-05 23:55:28,797 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:02:20,257 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:02:22,931 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:02:23,033 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:02:26,744 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:02:26,781 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:02:28,928 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:02:28,928 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:02:35,562 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:04:13,368 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:04:16,406 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:04:16,537 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:04:20,264 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:04:20,288 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:04:22,504 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:04:22,504 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:04:30,124 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:09:34,893 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:09:37,315 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:09:37,412 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:09:41,439 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:09:41,467 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:09:43,643 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:09:43,645 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:09:50,055 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:14:12,472 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:14:15,032 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:14:15,226 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:14:19,183 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:14:19,190 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:14:21,410 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:14:21,410 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:14:27,597 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:22:05,497 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 00:22:15,232 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:22:17,144 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:22:17,267 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:22:20,402 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:22:20,427 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:22:22,358 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:22:22,358 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:22:28,998 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:25:12,557 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 00:25:23,199 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:25:25,515 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:25:25,614 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:25:29,052 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:25:29,079 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:25:31,151 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:25:31,151 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:25:37,905 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:36:13,905 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 00:36:24,829 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:36:27,790 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:36:27,925 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:36:35,006 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:36:35,022 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:36:37,066 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:36:37,066 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:36:44,278 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:39:04,553 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 00:39:15,274 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:39:17,652 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:39:17,751 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:39:21,483 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:39:21,516 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:39:23,763 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:39:23,763 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:39:30,467 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 00:47:15,077 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 00:47:26,316 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 00:47:28,722 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 00:47:28,819 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 00:47:32,514 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 00:47:32,532 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 00:47:34,715 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 00:47:34,715 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 00:47:41,338 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 09:23:40,389 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 09:23:52,326 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:23:54,818 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:23:54,965 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:23:59,126 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:23:59,147 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:24:03,031 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 09:24:03,031 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 09:24:09,656 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 09:25:13,489 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:25:15,637 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:25:15,764 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:25:19,856 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:25:19,873 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:29:35,911 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:29:38,090 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:29:38,194 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:29:42,010 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:29:42,028 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:40:13,286 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:40:15,720 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:40:15,865 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:40:19,876 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:40:19,909 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:40:23,202 - CountDown_Test_Framework -INFO - Save Trolly Test Case Falied
+2019-02-06 09:49:25,228 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 09:49:37,041 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:49:39,444 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:49:39,538 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:49:43,604 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:49:43,623 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:51:14,918 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 09:51:27,132 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:51:29,454 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:51:29,557 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:51:33,483 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:51:33,511 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:54:47,528 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 09:54:58,350 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:55:00,636 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:55:00,764 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:55:04,508 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:55:04,540 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:58:08,995 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 09:58:20,147 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:58:22,316 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:58:22,487 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:58:26,236 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:58:26,253 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:59:02,537 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 09:59:12,382 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:59:14,629 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:59:14,723 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:59:18,632 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:59:18,664 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 09:59:37,793 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 09:59:48,493 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 09:59:50,783 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 09:59:50,885 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 09:59:54,759 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 09:59:54,781 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:01:55,684 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:01:57,866 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:01:57,978 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:02:01,796 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:02:01,831 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:02:04,056 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 10:02:04,056 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 10:02:10,677 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 10:08:43,288 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:08:44,792 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:08:44,884 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:08:48,720 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:08:49,220 - CountDown_Test_Framework -INFO - Login Test Failed
+2019-02-06 10:10:23,589 - CountDown_Test_Framework -INFO - This Testcase runs using EXcel Data Reader
+2019-02-06 10:10:34,088 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:10:35,291 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:10:35,382 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:10:39,080 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:10:39,106 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:12:35,407 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:12:37,559 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:12:37,671 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:12:41,342 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:12:41,358 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:12:44,562 - CountDown_Test_Framework -INFO - This Testcase runs using EXcel Data Reader
+2019-02-06 10:12:51,707 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:12:52,765 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:12:52,853 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:12:56,095 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:12:56,114 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:13:08,358 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:13:10,543 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:13:10,649 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:13:14,469 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:13:14,494 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:13:16,484 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 10:13:16,484 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 10:13:23,119 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 10:13:33,208 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:13:35,336 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:13:35,430 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:13:38,745 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:13:38,757 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:13:38,765 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 10:13:41,884 - CountDown_Test_Framework -INFO - Save Trolly Test Case Falied
+2019-02-06 10:30:33,838 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 10:30:46,918 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:30:49,101 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:30:49,201 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:30:53,232 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:30:53,261 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:30:55,510 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 10:30:55,510 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 10:31:02,248 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 10:31:28,449 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 10:31:40,687 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:31:43,427 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:31:43,531 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:31:47,729 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:31:47,762 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:31:49,990 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 10:31:49,990 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 10:31:56,614 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 10:35:40,675 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 10:35:54,169 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 10:35:56,461 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 10:35:56,558 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 10:36:01,564 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 10:36:01,599 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 10:36:03,655 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 10:36:03,655 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 10:36:10,470 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:18:32,611 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:18:45,915 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:18:48,089 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:18:48,190 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:18:51,786 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:18:51,800 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:18:53,602 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:18:53,602 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:18:59,759 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:28:30,259 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:28:43,571 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:28:45,645 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:28:45,746 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:28:49,503 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:28:49,515 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:28:51,312 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:28:51,313 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:28:57,377 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:29:42,534 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:29:54,794 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:29:56,927 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:29:57,024 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:30:00,363 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:30:00,376 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:30:02,179 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:30:02,179 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:30:08,222 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:30:43,302 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:30:55,829 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:30:57,954 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:30:58,067 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:31:01,690 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:31:01,706 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:31:03,483 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:31:03,483 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:31:09,533 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:32:38,486 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:32:50,443 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:32:52,500 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:32:52,600 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:32:56,172 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:32:56,186 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:32:57,972 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:32:57,972 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:33:04,074 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:38:46,143 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:38:59,316 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:39:01,594 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:39:01,695 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:39:05,357 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:39:05,386 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:39:07,572 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:39:07,572 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:39:23,739 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:39:36,539 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:39:39,591 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:39:39,707 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:39:43,422 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:39:43,458 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:39:45,501 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:39:45,501 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:39:52,099 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:40:44,979 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:40:57,476 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:40:59,746 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:40:59,848 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:41:03,518 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:41:03,545 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:41:05,645 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:41:05,645 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:41:14,813 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:42:08,292 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:42:19,074 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:42:21,311 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:42:21,434 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:42:25,055 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:42:25,082 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:42:27,172 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:42:27,172 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:42:35,863 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 11:50:02,960 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:51:15,487 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:51:25,413 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 11:51:34,064 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 11:51:36,288 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 11:51:36,410 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 11:51:39,534 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 11:51:39,545 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 11:51:42,475 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 11:51:42,475 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 11:51:51,303 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 12:11:22,320 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 12:11:44,048 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 12:12:09,524 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 12:12:31,183 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:03:13,673 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:03:25,325 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:03:27,534 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:03:27,658 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:03:33,585 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:03:33,612 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:03:35,640 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:03:35,641 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:03:44,753 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:06:10,832 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:06:47,337 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:06:49,959 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:06:50,095 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:06:54,715 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:06:54,729 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:06:56,850 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:06:56,852 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:07:05,772 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:08:19,668 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:08:30,516 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:08:32,829 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:08:32,966 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:08:37,240 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:08:37,262 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:08:39,515 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:08:39,516 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:08:49,199 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:11:11,078 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:11:21,875 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:11:24,073 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:11:24,176 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:11:27,795 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:11:27,828 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:11:29,841 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:11:29,842 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:11:38,868 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:13:26,940 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:13:39,283 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:13:41,689 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:13:41,854 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:13:46,258 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:13:46,287 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:13:48,435 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:13:48,435 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:13:57,606 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:14:36,615 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:14:53,842 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:14:56,098 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:14:56,192 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:15:00,219 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:15:00,232 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:15:02,425 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:15:02,426 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:15:11,849 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:28:44,054 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:28:55,316 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:28:57,701 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:28:57,805 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:29:01,457 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:29:01,479 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:29:03,547 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:29:03,548 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:29:12,541 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 13:31:07,884 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:31:23,727 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:31:26,096 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:31:26,234 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:31:30,655 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:31:30,677 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:31:33,120 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:31:33,120 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:31:42,075 - CountDown_Test_Framework -INFO - Search Items Test case Passed
+2019-02-06 13:38:12,495 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 13:38:25,095 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 13:38:27,677 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 13:38:27,834 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 13:38:32,708 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 13:38:32,724 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 13:38:35,045 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 13:38:35,045 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 13:38:44,228 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 14:06:49,911 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 14:07:00,839 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 14:07:03,125 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 14:07:03,295 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 14:07:07,099 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 14:07:07,120 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 14:08:21,694 - CountDown_Test_Framework -INFO - Clear the List
+2019-02-06 14:08:32,419 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 14:08:35,252 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 14:08:35,366 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 14:08:40,505 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 14:08:40,521 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 14:37:35,910 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 14:37:47,540 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 14:37:49,761 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 14:37:49,884 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 14:37:53,773 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 14:37:53,792 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 14:37:55,940 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 14:37:55,940 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 14:38:04,898 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 21:59:41,541 - CountDown_Test_Framework -INFO - This Testcase runs using EXcel Data Reader
+2019-02-06 21:59:56,316 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 21:59:57,305 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 21:59:57,402 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:00:01,308 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:00:01,318 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:00:51,577 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:00:54,037 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:00:54,136 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:00:59,037 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:00:59,053 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:01:44,859 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:01:46,890 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:01:47,012 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:01:55,695 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:01:55,707 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:01:57,982 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 22:01:57,982 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 22:03:26,433 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:03:28,490 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:03:28,592 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:03:32,585 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:03:32,602 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:03:34,464 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 22:03:34,464 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 22:03:42,672 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 22:04:56,970 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 22:05:55,019 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:05:57,454 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:05:57,609 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:06:01,442 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:06:01,453 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:06:03,370 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 22:06:03,371 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 22:06:11,470 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 22:07:24,036 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:07:26,178 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:07:26,291 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:07:32,118 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:07:32,126 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:07:32,155 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:08:19,396 - CountDown_Test_Framework -INFO - Adding the quantity of products
+2019-02-06 22:09:02,527 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:09:05,192 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:09:05,318 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:09:09,675 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:09:09,684 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:09:12,046 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 22:09:12,046 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 22:10:29,279 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:10:31,254 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:12:17,971 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:12:20,049 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:12:20,164 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:12:25,723 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:12:25,734 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:12:25,742 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:12:32,274 - CountDown_Test_Framework -INFO - Save Trolly Test Case Falied
+2019-02-06 22:14:55,751 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:14:57,881 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:14:57,985 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:15:01,702 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:15:01,713 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:15:01,720 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:15:44,008 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:15:47,292 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:15:47,409 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:16:14,635 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:16:14,648 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:16:14,654 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:17:18,164 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:17:20,445 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:17:20,578 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:17:24,213 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:17:24,222 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:17:24,229 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:18:59,685 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:19:01,965 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:19:02,095 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:19:06,034 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:19:06,046 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:19:09,156 - CountDown_Test_Framework -INFO - This Testcase runs using EXcel Data Reader
+2019-02-06 22:19:17,325 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:19:18,434 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:19:18,556 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:19:22,320 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:19:22,331 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:19:35,945 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:19:39,284 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:19:39,395 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:19:43,529 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:19:43,540 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:19:45,496 - CountDown_Test_Framework -INFO - Click on Search Field
+2019-02-06 22:19:45,497 - CountDown_Test_Framework -INFO - Data Reading
+2019-02-06 22:19:53,627 - CountDown_Test_Framework -INFO - Search Items Test case Failed
+2019-02-06 22:20:08,044 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:20:10,485 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:20:10,612 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:20:14,712 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:20:14,720 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:20:14,726 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:21:57,400 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:21:59,744 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:21:59,878 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:22:03,943 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:22:03,961 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:22:03,970 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:22:37,352 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:22:39,617 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:22:39,734 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:22:44,224 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:22:44,236 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:22:44,245 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:24:40,207 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-06 22:24:42,305 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-06 22:24:42,441 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-06 22:24:46,022 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-06 22:24:46,032 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-06 22:24:46,039 - CountDown_Test_Framework -INFO - Save the items in the trolly successfully
+2019-02-06 22:24:49,513 - CountDown_Test_Framework -INFO - Save Trolly Test Case Falied
+2019-02-12 13:14:27,059 - CountDown_Test_Framework -INFO - URL is Opened
+2019-02-12 13:14:29,246 - CountDown_Test_Framework -INFO - Entered Email Successfully
+2019-02-12 13:14:29,345 - CountDown_Test_Framework -INFO - Entered Password Successfully
+2019-02-12 13:14:33,097 - CountDown_Test_Framework -INFO - Click on Login Button Successfully
+2019-02-12 13:14:33,111 - CountDown_Test_Framework -INFO - Login Test Passed
+2019-02-12 13:14:36,834 - CountDown_Test_Framework -INFO - This Testcase runs using EXcel Data Reader
+2019-02-12 13:14:39,269 - CountDown_Test_Framework -INFO - URL is Opened

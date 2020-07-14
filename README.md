@@ -11,7 +11,7 @@ Test framework is started from the scratch.
     Created folder structure as per the POM concept
     
   # Execution
-    Executes using testng
+    Executed using testng
     
   # Maintenance
     Saved and updated in Github

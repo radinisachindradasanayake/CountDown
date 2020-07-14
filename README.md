@@ -11,10 +11,11 @@ URL	https://shop.countdown.co.nz
 * Select the trolley (Look for the button which has trolley image)
 * Select View All button
 * Save trolley
-	
-# Tools 
+
+# Dependencies
+
 * Maven 
-* TestNG 
+* TestNG
 * Selenium Webdriver
 
 

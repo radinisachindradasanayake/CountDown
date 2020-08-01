@@ -19,7 +19,7 @@ public class ExcelDataConfig
 	//Method to load the workbook
 	public ExcelDataConfig() throws IOException
 	{
-		String excelPath = "C:\\Users\\Radini Dasanayake\\workspace\\CountDown\\src\\main\\java\\com\\CountDown\\TestData\\TestData.xlsx";
+		String excelPath = "C:\\Users\\..............................................................xlsx";
 		FileInputStream fis = new FileInputStream(excelPath);
 		wb = new XSSFWorkbook(fis);		
 		
